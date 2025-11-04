@@ -1,4 +1,6 @@
-# todolist.py
+print("Selamat datang di To-Do List!")
+print("Tambahkan, lihat, dan hapus tugasmu di sini.")
+
 tasks = []
 
 while True:
