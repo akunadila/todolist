@@ -1,5 +1,5 @@
 # todolist
-# Proyek Ujian Cloud Services: Aplikasi To-Do List Lintas Platform
+# UTS Cloud Services: Aplikasi To-Do List Lintas Platform
 
 **Oleh:** Nadila Zindi Aulia Putri
 **Mata Kuliah:** Cloud Services
