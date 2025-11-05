@@ -6,8 +6,6 @@
 
 ---
 
-## 1. Deskripsi Proyek
-
 Aplikasi ini adalah To-Do List sederhana berbasis Command Line Interface (CLI) yang dibangun menggunakan Python. Project ini bertujuan untuk mendemonstrasikan implementasi penuh Containerization dan Cross-Platform Deployment menggunakan Docker dan diuji konsistensinya di lingkungan Linux (WSL) dan Windows.
 
 ### Fitur Aplikasi:
@@ -16,7 +14,7 @@ Aplikasi ini adalah To-Do List sederhana berbasis Command Line Interface (CLI) y
 * Menghapus Tugas
 * Keluar dari Aplikasi
 
-## 2. Konfigurasi Proyek & Workflow
+## Konfigurasi Proyek & Workflow
 
 ### Version Control (LO 2.a)
 Proyek ini dikembangkan menggunakan Git Flow sederhana, melibatkan branching fitur dan merge ke cabang `main`.
